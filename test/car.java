@@ -26,8 +26,7 @@ public class car {
     //     ers e = cr.new ers();
     //     e.num = 10;
     // }
-    git config --global user.email "arihant-jain@newgensoft.com"
-  git config --global user.name "Arihant-Newgen"
+    
     
 
 
