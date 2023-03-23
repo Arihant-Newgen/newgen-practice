@@ -7,7 +7,7 @@ public class car {
     public void show(){
         System.out.println("The car is " + this.name +" and model is " + this.model);
     }
-
+ 
     // ers ee = new ers();
     // ee. karne par instance variables show nhi ho rhe.
 

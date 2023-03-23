@@ -24,7 +24,7 @@ public class gfg {
             gfg obj = (gfg)cls.newInstance();
  
             // Print and display
-            System.out.println(obj.name);
+            System.out.println(obj.name); 
         }
  
         // Catch block to handle the exceptions

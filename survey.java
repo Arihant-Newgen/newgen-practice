@@ -25,7 +25,7 @@ public class survey {
             str2 += str.charAt(i);
         }
         
-        System.out.println(str2);
+        System.out.println(str2); 
     
     }
     

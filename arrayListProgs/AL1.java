@@ -22,7 +22,7 @@ public class AL1 {
         int del1 = sc.nextInt();
 
         System.out.println("-------------------------------------------------\n");
-
+ 
         for (int i = 0; i < AL.size(); i++) {
             if (AL.get(i) == del1) {
                 AL.remove(i);

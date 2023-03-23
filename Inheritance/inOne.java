@@ -11,9 +11,13 @@ public class inOne{
 
     public static void main(String[] args) {
        
-            // second s = new second();;
+            //  second s = new second();;
             // s.num += s.num2;
             // System.out.println(s.num);
+            /*
+             * System.out.println(first.value);
+             */
+
             second f = new second();
             f.num += f.num2;
             System.out.println(f.num);
