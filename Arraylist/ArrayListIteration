@@ -1,0 +1,31 @@
+import java.util.*;
+public class Arraylist2 {
+
+
+
+	public static void main(String args[])
+	{
+		
+		ArrayList<String> al = new ArrayList<>();
+
+		
+		al.add("Disha");
+		al.add("Sarna");
+		al.add(2, "Newgen");
+
+		
+		for (int i = 0; i < al.size(); i++) {
+
+			System.out.print(al.get(i) + " ");
+		}
+
+		System.out.println();
+
+		// Using the for each loop
+		for (String str : al)
+        {
+            System.out.print(str + " "); 
+        }
+			
+	}
+}
