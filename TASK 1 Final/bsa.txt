@@ -1,0 +1,7 @@
+CLIENT_SECRET=fg
+Get_BSA_Report=fg
+CLIENT_ID=fg
+upload_bank_statement=cc
+BSA_BASE_URL=ee
+mockFlag=bh
+merge_bsa_report=gg
